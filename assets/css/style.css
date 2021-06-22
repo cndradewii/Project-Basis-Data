@@ -1,0 +1,110 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #555;
+  background-color: #fff;
+}
+
+.navbar-inverse {
+    background-color: #3c8dbc;
+    border-color: #357ca5;
+}
+
+.navbar-inverse .navbar-toggle {
+    border-color: #fff;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #fff;
+}
+
+.navbar-brand {
+    float: left;
+    font-size: 20px;
+    height: 60px;
+    line-height: 30px;
+    padding: 15px;
+}
+
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:focus, .navbar-inverse .navbar-nav > .active > a:hover {
+    background-color: #357ca5;
+    color: #fff;
+}
+
+.navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:focus, .navbar-inverse .navbar-nav > .open > a:hover {
+    background-color: #357ca5;
+    color: #fff;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: #fff;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover {
+    color: #fff;
+    background: #357ca5;
+}
+
+
+.navbar-nav > li > a {
+    padding-bottom: 15px;
+    padding-top: 15px;
+    line-height: 30px;
+    font-size: 15px;
+}
+
+header.carousel {
+    height: 70%;
+}
+
+.center {
+	text-align: center;
+}
+
+.right {
+	text-align: right;
+}
+
+.daftar i {
+    font-size: 70px;
+    color: #3c8dbc;
+    border: 1px solid #3c8dbc;
+    border-radius: 50%;
+    padding: 25px 35px 25px 35px;
+}
+
+.pesan i {
+    font-size: 70px;
+    color: #3c8dbc;
+    border: 1px solid #3c8dbc;
+    border-radius: 50%;
+    padding: 25px 32px 25px 32px;
+}
+
+.bayar i {
+    font-size: 70px;
+    color: #3c8dbc;
+    border: 1px solid #3c8dbc;
+    border-radius: 50%;
+    padding: 25px 40px 25px 40px;
+}
+
+footer {
+    background: #34495e none repeat scroll 0 0;
+    padding: 25px 0 15px 0;
+    width: 100%;
+    position: absolute;
+    text-align: center;
+	color: #fff;
+}
+
+footer a {
+	color: #fff;
+}
+
+footer a:hover {
+	color: #3c8dbc;
+	text-decoration: none;
+}
+
